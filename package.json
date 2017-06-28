@@ -2,7 +2,7 @@
   "name": "react-wrap-render-comments",
   "main": "./lib/react-wrap-render-comments",
   "version": "0.0.0",
-  "description": "A short description of your package",
+  "description": "Use to wrap content of react render methods in comments {/* like so */}",
   "keywords": [
   ],
   "activationCommands": {
