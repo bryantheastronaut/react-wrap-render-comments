@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle react-wrap-render-comments",
+        "command": "react-wrap-render-comments:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "react-wrap-render-comments",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "react-wrap-render-comments:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

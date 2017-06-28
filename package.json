@@ -1,0 +1,18 @@
+{
+  "name": "react-wrap-render-comments",
+  "main": "./lib/react-wrap-render-comments",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "react-wrap-render-comments:toggle"
+  },
+  "repository": "https://github.com/atom/react-wrap-render-comments",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

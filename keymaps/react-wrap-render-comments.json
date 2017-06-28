@@ -1,0 +1,5 @@
+{
+  "atom-workspace": {
+    "ctrl-alt-/": "react-wrap-render-comments:toggle"
+  }
+}
