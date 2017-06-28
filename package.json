@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "react-wrap-render-comments:toggle"
   },
-  "repository": "https://github.com/atom/react-wrap-render-comments",
+  "repository": "https://github.com/bryantheastronaut/react-wrap-render-comments.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
