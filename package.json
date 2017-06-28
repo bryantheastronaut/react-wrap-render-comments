@@ -1,10 +1,9 @@
 {
   "name": "react-wrap-render-comments",
   "main": "./lib/react-wrap-render-comments",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Use to wrap content of react render methods in comments {/* like so */}",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "react-wrap-render-comments:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
